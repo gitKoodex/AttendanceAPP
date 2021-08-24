@@ -1,0 +1,19 @@
+{
+    "add"                    :"افزودن",
+    "edit"                   :"ویرایش",
+    "read"                   :"خواندن",
+    "delete"                 :"حذف",
+    "all"                    :"همه",
+    "login"                  : "ورود",
+    "register"               : "ثبت نام",
+    "Rights"                 :"حقوق",
+    "Reserved"               :"محفوظ است",
+    "Username"               : "نام کاربر",
+    "Password"               : "کلمه عبور",
+    "I love programming."    : "من عاشق برنامه نویسی هستم",
+    "Attendance app"         :"اپلیکشن حضور و غیاب",
+    "AttendanceApp"          :"اپلیکشن حضور و غیاب",
+    "AttendanceAPP"          :"اپلیکشن حضور و غیاب",
+    "All Rights Reserved":"کلیه حقوق محفوظ است"
+
+}

@@ -1,6 +1,16 @@
-<<<<<<< HEAD
 # AttendanceAPP
-AttendanceApp is A laravel application for management Attendance for employees or students and ... and make all kind of report from them
+AttendanceApp s A laravel application for management Attendance for employees or students and ... and make all kind of report from them.
+
+## we used from free version of this packages
+- 1- <a href="https://dmuy.github.io/MDTimePicker/">timepicker</a>
+- 2- <a href="https://github.com/summernote/summernote">summernote </a>(the original address doesn't respond in iran so they may follow american sanction.but git version is avalable. hooray).
+- 3- <a href="https://datatables.net/">datatables</a>
+- 4- laravel version 8.* (for upgrate laravel version contact me.)
+- 5- bootstrap
+- 6- jquery (all js files are base on jquery).
+
+
+**[time picker](https://dmuy.github.io/MDTimePicker/)**
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
